@@ -1,6 +1,3 @@
-//Hexapod_Kinematik_MultiStep_MASTER_H04_03a
-//by Siful Jamaan, PhD, 16-07-2021
-
 #include "1_Variable.h"
 
 byte printOut = 0;
